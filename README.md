@@ -25,5 +25,6 @@ npm start
 ```
 
 ### 4. Environment
+This application runs on http://localhost:3000.
 API is assumed to run on `http://localhost:8000`.
 
