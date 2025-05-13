@@ -11,6 +11,7 @@
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/your-repo/spenza-frontend.git
+cd spenza-frontend
 ```
 
 ### 2. Install dependencies
