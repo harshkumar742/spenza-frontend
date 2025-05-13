@@ -10,7 +10,7 @@
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-repo/spenza-frontend.git
+git clone https://github.com/harshkumar742/spenza-frontend
 cd spenza-frontend
 ```
 
