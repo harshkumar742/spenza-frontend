@@ -11,7 +11,6 @@
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/your-repo/spenza-frontend.git
-cd spenza-frontend
 ```
 
 ### 2. Install dependencies
@@ -25,5 +24,5 @@ npm start
 ```
 
 ### 4. Environment
-API is assumed to run on `http://localhost:8000`. Change Axios base URL if needed.
+API is assumed to run on `http://localhost:8000`.
 
