@@ -1,7 +1,7 @@
 # Spenza Webhook Frontend
 
 ## Tech Stack
-- React.js (Vite or CRA)
+- React.js
 - Axios
 - JWT Auth
 - React Router
